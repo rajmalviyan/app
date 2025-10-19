@@ -27,7 +27,7 @@ jobs:
         run: mkdir -p docs
 
       - name: Run script to generate playlist
-        run: python script.py
+        run: python ../../docs/script.py
 
       - name: Commit and push generated playlist
         run: |
