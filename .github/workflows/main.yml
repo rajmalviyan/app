@@ -1,4 +1,4 @@
-name: Playlist Generator
+name: PlaylistGen
 
 on:
   schedule:
